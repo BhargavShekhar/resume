@@ -34,3 +34,11 @@ It includes all major resume sections such as:
 .
 ├── index.html
 └── README.md
+```
+
+##  Setup
+```
+git clone https://github.com/BhargavShekhar/resume
+cd resume
+
+```
