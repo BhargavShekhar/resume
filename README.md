@@ -1,7 +1,5 @@
 # HTML Resume Page
 
-Single-page resume website built using **pure HTML** as part of the **Web Dev Cohort 2026** assignment.
-
 ---
 
 ## 📌 Project Overview
